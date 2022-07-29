@@ -1,5 +1,5 @@
 # cpp-rpn-calculator-and-converter
-writen in C++ calculator, that works on reverse polish notation (rpn). Automatically convert infix notation (normal) to rpn and gives result.
+written in C++ calculator, that works on reverse polish notation (rpn). Automatically convert infix notation (normal) to rpn and gives result.
 
 Code has 2 usable functions:
  - double calculate_rpn(string operation): returns result and accept string that is in rpn
